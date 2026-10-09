@@ -1,0 +1,8 @@
+{
+  "name": "Remix Apex POS \u0026 Material Inventory Register",
+  "description": "Enterprise point of sale and inventory dispatch system with dynamic line-item entry, customer auto-suggestion, and grouped Excel reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
